@@ -1,5 +1,3 @@
-# main.py
-
 from class_data import menu
 from class_process import calculate_total
 from class_view import display_menu, display_payment_details

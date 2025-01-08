@@ -1,5 +1,3 @@
-# class_view.py
-
 def display_menu(menu):
     print("==================== Daftar Menu =================")
     for item, price in menu.items():

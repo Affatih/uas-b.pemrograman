@@ -1,5 +1,3 @@
-# class_data.py
-
 menu = {
     "fried chicken": 15000,
     "burger queen": 25000,

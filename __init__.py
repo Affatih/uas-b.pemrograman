@@ -1,5 +1,3 @@
-# __init__.py
-
 """
 This package provides a simple menu ordering system.
 """
